@@ -1,4 +1,4 @@
-Anti-Fragile Investments
+In Love with Fat Tails
 ================================================
 
 Contents
