@@ -4,3 +4,9 @@ tests/Bootstrap_alpha_estimation.png
 tests/EmpiricalKurtosis.png
 tests/MaximumSumPlots.png
 tests/PowerLawsInTails.png
+# Local scientific runs
+.pytest_cache/
+__pycache__/
+*.pyc
+.venv/
+results/
